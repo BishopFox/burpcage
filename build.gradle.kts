@@ -13,7 +13,7 @@ repositories {
 }
 
 dependencies {
-    implementation("net.portswigger.burp.extensions:montoya-api:1.0.0")
+    implementation("net.portswigger.burp.extensions:montoya-api:2023.3")
 }
 
 tasks.test {
